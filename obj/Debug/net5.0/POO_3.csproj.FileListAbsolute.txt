@@ -1,0 +1,16 @@
+C:\Users\HP PROBOOK\source\repos\POO_3\bin\Debug\net5.0\POO_3.exe
+C:\Users\HP PROBOOK\source\repos\POO_3\bin\Debug\net5.0\POO_3.deps.json
+C:\Users\HP PROBOOK\source\repos\POO_3\bin\Debug\net5.0\POO_3.runtimeconfig.json
+C:\Users\HP PROBOOK\source\repos\POO_3\bin\Debug\net5.0\POO_3.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\source\repos\POO_3\bin\Debug\net5.0\POO_3.dll
+C:\Users\HP PROBOOK\source\repos\POO_3\bin\Debug\net5.0\POO_3.pdb
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.AssemblyInfo.cs
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.sourcelink.json
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.dll
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\refint\POO_3.dll
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.pdb
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\POO_3.genruntimeconfig.cache
+C:\Users\HP PROBOOK\source\repos\POO_3\obj\Debug\net5.0\ref\POO_3.dll
